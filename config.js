@@ -1,10 +1,11 @@
 const CONFIG = {
     titleWeb: "confess",
     introTitle: 'Hiền không cao 😚',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `if I had a penny for every time I thought of you, 
+    I'd have exactly one cent... cause you never leave my mind.`,
+
+
+
     btnIntro: 'hế luuuu 😚😚😚',
     title: 'Cảm ơn m trong thời gian qua đã ở bên t ☺️☺️☺️',
     desc: 'Trong thời gian qua t cảm thấy rất thích m á ☺️ m có cảm thấy như vậy khum',
