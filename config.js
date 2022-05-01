@@ -6,9 +6,9 @@ const CONFIG = {
 
 
 
-    btnIntro: 'hế luuuu 😚😚😚',
+    btnIntro: 'hế luuuu 🤡🤡🤡',
     title: 'Cảm ơn m trong thời gian qua đã ở bên t ☺️☺️☺️',
-    desc: 'Trong thời gian qua t cảm thấy rất thích m á ☺️ m có cảm thấy như vậy khum',
+    desc: 'Trong thời gian qua t cảm thấy rất thích m á 🥺 m có cảm thấy như vậy khum',
     btnYes: 'Coá 😚',
     btnNo: 'Mơ à 😒',
     question: 'Và giờ là câu hỏi cuối nè :Đ m đồng ý làm người yêu t nhé:333',
