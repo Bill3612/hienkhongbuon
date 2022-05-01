@@ -12,7 +12,7 @@ const CONFIG = {
     btnYes: 'Coá 😚',
     btnNo: 'Mơ à 😒',
     question: 'Và giờ là câu hỏi cuối nè :Đ m đồng ý làm người yêu t nhé:333',
-    btnReply: 'Gửi cho kải zũ ☺️',
+    btnReply: 'Gửi cho kải zũ 🥦',
     reply: 'Đồng ý ❤️',
     mess: 'Ỏ 😚😚😚',
     messDesc: 'Thứ 4 này mình lại gặp nhau nhé h ib lại cho t nào :333',
