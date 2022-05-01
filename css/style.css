@@ -59,7 +59,7 @@ header h2 {
 header h4 {
     font-family: 'Lobster';
     text-align: center;
-    color: cyan;
+    color: White;
 }
 
 @media only screen and (max-width: 500px) {
